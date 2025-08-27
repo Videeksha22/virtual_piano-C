@@ -19,15 +19,3 @@ It generates beep sounds when you press keys, simulating a piano.
 3. Press keys to play sounds, press `X` to exit.
 
 ---
-
-
----
-
-## 👨‍💻 Authors
-- Your Name
-- Friend’s Name
-
----
-
-## 📜 License
-This project is open source. You can use and modify it freely.
