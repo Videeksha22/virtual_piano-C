@@ -9,8 +9,8 @@ void main() {
     clrscr();   
 
     printf("\t\t\tWelcome in Keyboard Piano\n");
-    printf("Please wait... loading\n");
-    printf("Press X to exit!!\n");
+    printf("Plz Wait Loading....\n");
+    printf("Press X to Exit!!\n");
 
     for (i = 1; i <= 20; i++) {
         printf("%c", note);
@@ -26,3 +26,4 @@ void main() {
         }
     }
 }
+
